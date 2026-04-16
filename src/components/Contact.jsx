@@ -35,8 +35,8 @@ const Contact = () => {
     {
       icon: <FaPhone className="text-2xl" />,
       label: "Phone",
-      value: "+91 98765 43210",
-      href: "tel:+919876543210"
+      value: "+91 7892543117",
+      href: "tel:+917892543117"
     },
     {
       icon: <FaMapMarkerAlt className="text-2xl" />,
