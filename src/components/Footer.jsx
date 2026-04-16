@@ -18,7 +18,7 @@ const Footer = () => {
     },
     {
       icon: <FaEnvelope className="text-xl" />,
-      href: "mailto:abhishek.shenoy@example.com",
+      href: "mailto:abhishekshenoy2004@gmail.com",
       label: "Email"
     }
   ]
@@ -103,7 +103,7 @@ const Footer = () => {
             <h4 className="text-lg font-semibold text-text mb-4">Get In Touch</h4>
             <div className="space-y-3">
               <p className="text-text/70">
-                <span className="font-medium text-text">Email:</span> abhishek.shenoy@example.com
+                <span className="font-medium text-text">Email:</span> abhishekshenoy2004@gmail.com
               </p>
               <p className="text-text/70">
                 <span className="font-medium text-text">Location:</span> Mangalore, Karnataka, India

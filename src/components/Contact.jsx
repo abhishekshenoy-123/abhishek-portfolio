@@ -29,8 +29,8 @@ const Contact = () => {
     {
       icon: <FaEnvelope className="text-2xl" />,
       label: "Email",
-      value: "abhishek.shenoy@example.com",
-      href: "mailto:abhishek.shenoy@example.com"
+      value: "abhishekshenoy2004@gmail.com",
+      href: "mailto:abhishekshenoy2004@gmail.com"
     },
     {
       icon: <FaPhone className="text-2xl" />,

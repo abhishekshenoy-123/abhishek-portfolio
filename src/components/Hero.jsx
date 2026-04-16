@@ -110,7 +110,7 @@ const Hero = () => {
           </motion.a>
           
           <motion.a
-            href="mailto:abhishek.shenoy@example.com"
+            href="mailto:abhishekshenoy2004@gmail.com"
             className="text-text hover:text-accent transition-colors"
             whileHover={{ scale: 1.2, rotate: 360 }}
             transition={{ duration: 0.3 }}
