@@ -8,7 +8,7 @@ const Education = () => {
       degree: "Bachelor of Engineering",
       field: "Computer Science Engineering",
       institution: "St. Joseph Engineering College",
-      period: "2020 - 2024",
+      period: "2022 - 2026",
       status: "8th Semester (Final Year)",
       icon: <FaGraduationCap className="text-3xl" />,
       description: "Pursuing B.E. in Computer Science Engineering with focus on software development and web technologies."
@@ -17,7 +17,7 @@ const Education = () => {
       degree: "Pre-University Course",
       field: "Science Stream",
       institution: "Canara College",
-      period: "2018 - 2020",
+      period: "2020 - 2022",
       percentage: "95.83%",
       icon: <FaSchool className="text-3xl" />,
       description: "Completed PUC with excellent academic performance in Science stream."
@@ -26,7 +26,7 @@ const Education = () => {
       degree: "Secondary School Leaving Certificate",
       field: "General Education",
       institution: "Canara High School Main",
-      period: "2008 - 2018",
+      period: "2010 - 2020",
       percentage: "94.88%",
       icon: <FaSchool className="text-3xl" />,
       description: "Completed 10 years of schooling with outstanding academic achievements."
