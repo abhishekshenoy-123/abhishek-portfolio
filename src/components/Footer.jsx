@@ -124,12 +124,7 @@ const Footer = () => {
           viewport={{ once: true }}
         >
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-text/60 text-sm mb-4 md:mb-0">
-              © {currentYear} R Abhishek Shenoy. All rights reserved.
-            </p>
-            <p className="text-text/60 text-sm flex items-center">
-              Made with <FaHeart className="text-red-500 mx-1" /> using React & Tailwind CSS
-            </p>
+            
           </div>
         </motion.div>
       </div>
