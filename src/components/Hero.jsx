@@ -74,7 +74,9 @@ const Hero = () => {
           </motion.button>
           
           <motion.a
-            href="#contact"
+            href="https://drive.google.com/uc?export=download&id=1_v3c-4snugRCTe8bfBOfBBtJl5AMqPot"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-8 py-3 border-2 border-accent text-accent rounded-full font-semibold hover:bg-accent hover:text-white transition-all duration-300 flex items-center gap-2"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
