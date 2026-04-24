@@ -115,12 +115,16 @@ All content is organized in the `src/components/` directory:
 - Safari (latest)
 - Edge (latest)
 
-## 👤 Author
+## 👤 Authors
 
 **R Abhishek Shenoy**
 - Email: abhishekshenoy2004@gmail.com
 - GitHub: [abhishekshenoy-123](https://github.com/abhishekshenoy-123/abhishekshenoy-123)
 - LinkedIn: [abhishek-shenoy-b28aab3bb](https://linkedin.com/in/abhishek-shenoy-b28aab3bb)
+
+**Suraj G Rao**
+- Email: surajgrao0203@gmail.com
+- GitHub: [Suraj-G-Rao](https://github.com/Suraj-G-Rao)
 
 ## 📄 License
 
