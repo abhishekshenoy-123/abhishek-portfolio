@@ -126,6 +126,10 @@ All content is organized in the `src/components/` directory:
 - Email: surajgrao0203@gmail.com
 - GitHub: [Suraj-G-Rao](https://github.com/Suraj-G-Rao)
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/abhishekshenoy-123/abhishek-portfolio/issues).
+
 ## 📄 License
 
 This project is open source and available under the MIT License.
