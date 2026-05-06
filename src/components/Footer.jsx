@@ -61,13 +61,14 @@ const Footer = () => {
       <div className="absolute bottom-0 right-0 w-96 h-96 bg-accent/5 rounded-full filter blur-3xl"></div>
       
       <div className="container mx-auto px-6 py-16 relative z-10">
-        <div className="grid md:grid-cols-3 gap-12">
+        <div className="grid md:grid-cols-4 gap-8">
           {/* Brand and Description */}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
             viewport={{ once: true }}
+            className="md:col-span-2"
           >
             <h3 className="text-3xl font-bold gradient-text mb-4">R Abhishek Shenoy</h3>
             <p className="text-text/70 mb-6 leading-relaxed">
@@ -76,7 +77,7 @@ const Footer = () => {
             </p>
             
             {/* Enhanced Social Links */}
-            <div className="flex space-x-4">
+            <div className="flex space-x-4 mb-6">
               {socialLinks.map((social, index) => (
                 <motion.a
                   key={index}
@@ -95,7 +96,7 @@ const Footer = () => {
 
             {/* Status Badge */}
             <motion.div
-              className="mt-6 inline-flex items-center px-4 py-2 bg-accent/10 rounded-full border border-accent/30"
+              className="inline-flex items-center px-4 py-2 bg-accent/10 rounded-full border border-accent/30"
               whileHover={{ scale: 1.05 }}
             >
               <span className="w-2 h-2 bg-green-500 rounded-full mr-2 animate-pulse"></span>
